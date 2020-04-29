@@ -1,5 +1,5 @@
 # DockerProject
-Docker project to create and deploy a website using Wordpress and Docker
+Docker project to create and deploy a website using Wordpress and Mysql using Docker
 
 For this you require docker installed in your OS 
 Install Wordpress and Mysql image from the docker pull cmd
