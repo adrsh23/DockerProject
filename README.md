@@ -9,3 +9,5 @@ I have attached some images in order for your reference
 
 This project has been done under the mentorship of World Record Holder Mr.Vimal Daga 
 Thank You sir!
+
+For you to see the entire website.jpg you require a big screen as in small screen it will be shown cropped 
