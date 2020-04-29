@@ -1,4 +1,4 @@
-# DockerProject
+# DockerProject By Adarsh Thakur
 Docker project to create and deploy a website using Wordpress and Mysql using Docker
 
 For this you require docker installed in your OS 
@@ -9,3 +9,5 @@ I have attached some images in order for your reference
 
 This project has been done under the mentorship of World Record Holder Mr.Vimal Daga 
 Thank You sir!
+
+For you to see the website.jpg file you require a big screen as it is not compatible with snall screens
